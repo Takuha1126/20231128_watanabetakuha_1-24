@@ -1,0 +1,66 @@
+.header {
+    color: #000080;
+    font-weight: bolder;
+    max-width: 100px;
+}
+.header__title {
+    position: relative;
+    top:20px;
+    left: 30px;
+    font-size: 20px;
+}
+.header__nav {
+    list-style: none;
+    
+}
+.link {
+    text-decoration: none;
+}
+.header__nav--box1 {
+    position: absolute;
+    top: 20px;
+    right: 350px;
+    
+}
+.header__nav--box2 {
+    position: absolute;
+    top: 20px;
+    right: 250px;
+}
+.header__nav--box3 {
+    position: absolute;
+    top: 20px;
+    right: 150px;
+}
+.header__nav--box4 {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.main {
+    position: relative;
+    top: 500px;
+    left: 0;
+}
+.main__card {
+    width: 900px;
+    height: 200px;
+    background-color: #000080;
+}
+.main__card-title {
+    position: absolute;
+    bottom: 200px;
+    font-size: 100px;
+    font-weight: 100;
+}
+.img {
+    position: absolute;
+    bottom: 100px;
+    left: 650px;
+    right: 0px;
+
+}
+img {
+    width: 800px;
+
+}
